@@ -168,7 +168,7 @@ Concepts align with:
 • SOC workflows
 • Enterprise security monitoring
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Planned enhancements include:
 • ⏱ Time-windowed activity analysis
@@ -178,3 +178,17 @@ Planned enhancements include:
 • 🌐 Streaming logs instead of batch processing
 • 🗂 Timestamped summary files for historical analysis
 • 📁 External rule definitions via YAML/JSON
+
+## 📊 Interactive Dashboard (Optional)
+
+The project also includes a lightweight Streamlit-based dashboard for visualizing detected alerts.
+
+The dashboard reads from `alerts.csv` and provides:
+
+- Severity-based alert visualization
+- Summary metrics (total alerts, high/medium severity)
+- A SOC-style tabular view of incidents
+
+### Run the dashboard: python3 -m streamlit run dashboard.py
+
+This dashboard is an optional visualization layer and does not affect the core detection logic.
