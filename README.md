@@ -1,5 +1,10 @@
 # 🔐 Insider Threat Detection Simulator
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+![Log Analysis](https://img.shields.io/badge/SOC-Log_Analysis-orange)
+
 A lightweight, rule-based cybersecurity monitoring system that detects suspicious **internal (insider) behavior** using simulated user activity logs.
 
 This project demonstrates **real-world SOC and SIEM concepts** such as log ingestion, event correlation, rule-based detection, severity classification, and multi-format alert outputs.
