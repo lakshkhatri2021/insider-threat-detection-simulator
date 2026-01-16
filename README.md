@@ -135,17 +135,6 @@ This mirrors how real security tools store rules and thresholds.
 - **CSV** — dashboard-friendly output format for alerts
 - **Terminal / Shell** — running the detector & dashboard
 
-## ▶️ How To Run
-
-1️⃣ Install Python 3 (if not installed)
-2️⃣ Run the detector : - python3 detector.py
-This will automatically:-
-• Generate fresh activity logs
-• Detect insider threats
-• Print colored alerts
-• Save outputs to alerts.log, alerts.csv, and summary.json
-• Print a summary report
-
 ## Sample Output (Terminal)
 
 ==============================
@@ -192,6 +181,24 @@ Planned enhancements include:
 • 🌐 Streaming logs instead of batch processing
 • 🗂 Timestamped summary files for historical analysis
 • 📁 External rule definitions via YAML/JSON
+
+## ▶️ How To Run
+
+1️⃣ Install Python 3 (if not installed)
+2️⃣ Run the detector : - python3 detector.py
+This will automatically:-
+• Generate fresh activity logs
+• Detect insider threats
+• Print colored alerts
+• Save outputs to alerts.log, alerts.csv, and summary.json
+• Print a summary report
+
+## 🧼 Cleaning & Regeneration
+
+Before committing updates, old alert files can be removed to regenerate clean logs:
+
+rm alerts.log alerts.csv summary.json logs/activity_logs.csv
+python3 detector.py
 
 ## 📊 Interactive Dashboard (Optional)
 
