@@ -223,3 +223,8 @@ This dashboard is an optional visualization layer and does not affect the core d
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project with attribution.
+
+---
+
+⭐ Developed with a focus on **real-world SOC workflows**, **SIEM-style detection**, and **log-based threat monitoring**.  
+Feedback and contributions are welcome.
