@@ -200,6 +200,11 @@ Before committing updates, old alert files can be removed to regenerate clean lo
 rm alerts.log alerts.csv summary.json logs/activity_logs.csv
 python3 detector.py
 
+## 🔐 Environment Variables
+
+This project does not require any environment variables.  
+A `.env.example` file is included for standard development workflows and deployment consistency.
+
 ## 📊 Interactive Dashboard (Optional)
 
 The project also includes a lightweight Streamlit-based dashboard for visualizing detected alerts.
