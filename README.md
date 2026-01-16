@@ -126,6 +126,15 @@ All thresholds and permissions are configurable **without touching code**:
 
 This mirrors how real security tools store rules and thresholds.
 
+## 🧰 Tech Stack
+
+- **Python** — core detection logic, rule engine, and automation
+- **Streamlit** — interactive SOC-style dashboard for alert visualization
+- **Pandas** — CSV handling and tabular data processing
+- **JSON** — configuration management & machine-readable summaries
+- **CSV** — dashboard-friendly output format for alerts
+- **Terminal / Shell** — running the detector & dashboard
+
 ## ▶️ How To Run
 
 1️⃣ Install Python 3 (if not installed)
