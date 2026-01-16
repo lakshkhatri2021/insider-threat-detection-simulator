@@ -1,0 +1,11 @@
+{
+    "work_start": 9,
+    "work_end": 18,
+    "action_threshold": 3,
+
+    "role_permissions": {
+    "intern": ["public_docs"],
+    "employee": ["project_docs"],
+    "admin": ["*"]
+    }
+}

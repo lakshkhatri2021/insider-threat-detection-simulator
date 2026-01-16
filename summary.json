@@ -1,0 +1,11 @@
+{
+    "total_alerts": 42,
+    "high": 3,
+    "medium": 36,
+    "low": 3,
+    "flagged_users": [
+        "emp02",
+        "emp01",
+        "emp03"
+    ]
+}

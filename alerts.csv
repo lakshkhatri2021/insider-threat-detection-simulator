@@ -1,0 +1,43 @@
+alert_type,severity,user,resource,time
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 18:06
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 08:42
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 20:57
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 22:26
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 05:34
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 20:50
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 04:13
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 22:33
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 08:00
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 02:20
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 06:29
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 21:48
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 23:15
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 00:23
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 03:13
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 04:19
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 22:48
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 21:36
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 20:47
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 06:12
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 22:27
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 20:23
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 02:04
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 01:44
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 00:57
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 18:05
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 21:34
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 19:51
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 19:28
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 07:29
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 20:03
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 03:15
+Access Outside Working Hours,MEDIUM,emp03,,2026-01-10 08:39
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 02:47
+Role-Based Access Violation,HIGH,emp02,payroll.zip,2026-01-10 02:47
+Access Outside Working Hours,MEDIUM,emp01,,2026-01-10 03:10
+Role-Based Access Violation,HIGH,emp01,confidential_reports,2026-01-10 03:10
+Access Outside Working Hours,MEDIUM,emp02,,2026-01-10 04:20
+Role-Based Access Violation,HIGH,emp02,confidential_reports,2026-01-10 04:20
+Excessive User Activity,LOW,emp03,,
+Excessive User Activity,LOW,emp02,,
+Excessive User Activity,LOW,emp01,,
