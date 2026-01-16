@@ -192,3 +192,8 @@ The dashboard reads from `alerts.csv` and provides:
 ### Run the dashboard: python3 -m streamlit run dashboard.py
 
 This dashboard is an optional visualization layer and does not affect the core detection logic.
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with attribution.
