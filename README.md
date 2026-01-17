@@ -175,7 +175,6 @@ Concepts align with:
 
 Planned enhancements include:
 • ⏱ Time-windowed activity analysis
-• 📊 Web-based dashboard visualization
 • 🧠 Machine learning anomaly detection
 • 🔗 Ingesting real system logs (Linux auth logs)
 • 🌐 Streaming logs instead of batch processing
